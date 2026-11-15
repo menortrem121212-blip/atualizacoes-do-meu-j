@@ -1,17 +1,17 @@
 {
   "formato": "neon-mayhem-building-saves-v1",
   "jogo": "Neon Mayhem",
-  "atualizado_em": "2026-11-15T20:40:12.363Z",
+  "atualizado_em": "2026-11-15T20:49:14.447Z",
   "construcoes": {
     "BLD-STRIP-P03316-P00920": {
-      "w": 0.6,
+      "w": 2.5,
       "d": 2.5,
       "h": 3
     },
     "BLD-STRIP-P01998-P00809": {
-      "w": 2.5,
-      "d": 1.9,
-      "h": 3
+      "w": 0.45,
+      "d": 0.45,
+      "h": 0.45
     },
     "BLD-STRIP-P01867-P00187": {
       "w": 1.47,
