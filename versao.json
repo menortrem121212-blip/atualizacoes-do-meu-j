@@ -1,0 +1,8 @@
+{
+  "jogo": "Meu Jogo",
+  "versao": "1.0.0",
+  "versao_minima": "1.0.0",
+  "obrigatoria": false,
+  "mensagem": "Servidor de atualizações conectado!",
+  "manifesto": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/manifest.json"
+}
