@@ -4,5 +4,5 @@
   "versao_minima": "1.0.0",
   "obrigatoria": false,
   "mensagem": "Servidor de atualizações conectado!",
-  "manifesto": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/manifest.json"
+  "manifesto": "https://raw.githubusercontent.com/menortrem121212-blip/atualizacoes-do-meu-j/main/manifest.json"
 }
