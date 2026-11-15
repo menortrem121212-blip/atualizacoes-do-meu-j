@@ -1,0 +1,24 @@
+{
+  "versao": "1.0.0",
+  "publicado_em": null,
+  "pacote": {
+    "url": null,
+    "nome": null,
+    "sha256": null,
+    "tamanho_bytes": null
+  },
+  "arquivos": [],
+  "preservar": [
+    "saves",
+    "construcoes",
+    "configuracoes"
+  ],
+  "categorias": [
+    "mapas",
+    "veiculos",
+    "predios",
+    "texturas",
+    "sons",
+    "modelos"
+  ]
+}
